@@ -1,2 +1,3 @@
-# machine_learning_archive
-Machine learning course parts as useful code deposit
+# Machine learning archive
+Machine learning course parts as useful code deposit.
+Methodologies of machine learning are served as an archive.
